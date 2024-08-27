@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Brown 
+          Brown version2
         </a>
       </header>
     </div>
